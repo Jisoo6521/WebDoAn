@@ -1,0 +1,358 @@
+D:\WebSite\WebDoAn\WebDoAn\bin\WebDoAn.dll.config
+D:\WebSite\WebDoAn\WebDoAn\bin\WebDoAn.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\WebDoAn.pdb
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\csc.exe
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\csc.exe.config
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\csc.rsp
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\csi.exe
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\csi.exe.config
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\csi.rsp
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.AppContext.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Collections.Immutable.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Console.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Globalization.Calendars.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.IO.Compression.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.IO.FileSystem.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Net.Http.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Net.Sockets.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.ValueTuple.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Xml.XPath.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\vbc.exe
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\vbc.exe.config
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\vbc.rsp
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\VBCSCompiler.exe
+D:\WebSite\WebDoAn\WebDoAn\bin\roslyn\VBCSCompiler.exe.config
+D:\WebSite\WebDoAn\WebDoAn\bin\Antlr3.Runtime.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\EntityFramework.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\EntityFramework.SqlServer.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Google.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Web.Infrastructure.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Newtonsoft.Json.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Owin.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.Helpers.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.Mvc.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.Optimization.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.Razor.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.WebPages.Deployment.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.WebPages.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.WebPages.Razor.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\WebGrease.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\EntityFramework.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\EntityFramework.SqlServer.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.Helpers.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.Mvc.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.Optimization.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.Razor.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.WebPages.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.WebPages.Deployment.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\System.Web.WebPages.Razor.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Newtonsoft.Json.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Antlr3.Runtime.pdb
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Google.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.AssemblyReference.cache
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.CoreCompileInputs.cache
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.CopyComplete
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.dll
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.pdb
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.Migrations.Database.resources
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.GenerateResource.cache
+D:\WebSite\WebDoAn\WebDoAn\bin\Dapper.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\PagedList.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\PagedList.Mvc.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\Dapper.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\PagedList.xml
+D:\WebSite\WebDoAn\WebDoAn\bin\PagedList.Mvc.xml
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.Migrations.DatabaseNew.resources
+D:\WebSite\WebDoAn\WebDoAn\bin\CKFinder.dll
+D:\WebSite\WebDoAn\WebDoAn\bin\CKFinder.pdb
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.Migrations.login.resources
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.Migrations.Review.resources
+D:\WebSite\WebDoAn\WebDoAn\obj\Debug\WebDoAn.Migrations.ReviewForeignKey.resources
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\WebDoAn.dll.config
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\WebDoAn.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\WebDoAn.pdb
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\csc.exe
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\csc.exe.config
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\csc.rsp
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\csi.exe
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\csi.exe.config
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\csi.rsp
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.AppContext.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Console.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Net.Http.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\vbc.exe
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\vbc.exe.config
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\vbc.rsp
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Antlr3.Runtime.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\CKFinder.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Dapper.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\EntityFramework.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\EntityFramework.SqlServer.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Newtonsoft.Json.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Owin.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\PagedList.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\PagedList.Mvc.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.Helpers.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.Mvc.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.Optimization.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.Razor.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.WebPages.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\WebGrease.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\CKFinder.pdb
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Dapper.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\EntityFramework.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\EntityFramework.SqlServer.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\PagedList.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\PagedList.Mvc.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.Helpers.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.Mvc.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.Optimization.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.Razor.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.WebPages.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Newtonsoft.Json.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Antlr3.Runtime.pdb
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.AssemblyReference.cache
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.CopyComplete
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\obj\Debug\WebDoAn.dll
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\obj\Debug\WebDoAn.pdb
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\obj\Debug\WebDoAn.Migrations.DatabaseNew.resources
+C:\Users\Pham Chau Tuan\Downloads\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.GenerateResource.cache
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\WebDoAn.dll.config
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\WebDoAn.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\WebDoAn.pdb
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\csc.exe
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\csc.exe.config
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\csc.rsp
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\csi.exe
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\csi.exe.config
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\csi.rsp
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.AppContext.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Console.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Net.Http.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\vbc.exe
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\vbc.exe.config
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\vbc.rsp
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Antlr3.Runtime.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\CKFinder.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Dapper.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\EntityFramework.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\EntityFramework.SqlServer.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Newtonsoft.Json.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Owin.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\PagedList.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\PagedList.Mvc.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.Helpers.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.Mvc.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.Optimization.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.Razor.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.WebPages.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\WebGrease.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\CKFinder.pdb
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Dapper.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\EntityFramework.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\EntityFramework.SqlServer.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\PagedList.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\PagedList.Mvc.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.Helpers.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.Mvc.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.Optimization.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.Razor.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.WebPages.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Newtonsoft.Json.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Antlr3.Runtime.pdb
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.AssemblyReference.cache
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\obj\Debug\WebDoAn.Migrations.DatabaseNew.resources
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.GenerateResource.cache
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\obj\Debug\WebDoAn.csproj.CopyComplete
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\obj\Debug\WebDoAn.dll
+C:\Users\Pham Chau Tuan\Desktop\WebDoAn\WebDoAn\obj\Debug\WebDoAn.pdb

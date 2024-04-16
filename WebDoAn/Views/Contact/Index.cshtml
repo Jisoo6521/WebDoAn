@@ -1,0 +1,113 @@
+﻿@model WebDoAn.Models.EF.Contact
+@using WebDoAn.Common
+@{
+    ViewBag.Title = "Contact";
+}
+<link rel="stylesheet" type="text/css" href="~/Content/Asset/styles/contact_styles.css">
+<link rel="stylesheet" type="text/css" href="~/Content/Asset/styles/contact_responsive.css">
+<link href="~/Content/Asset/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+
+<div class="container contact_container">
+    <div class="row">
+        <div class="col">
+
+            <!-- Breadcrumbs -->
+
+            <div class="breadcrumbs d-flex flex-row align-items-center">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li class="active"><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Contact</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Map Container -->
+
+    <div class="row">
+        <div class="col">
+            <div id="google_map">
+                <div class="map_container">
+                    <div id="map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.8072186844047!2d106.72082431474936!3d10.826060292287831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752881fbbe110b%3A0xcd5325ed725d89d9!2zxJAuIFPhu5EgMjAsIEhp4buHcCBCw6xuaCBDaMOhbmgsIFRo4bunIMSQ4bupYywgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1684149550913!5m2!1svi!2s" width="1110" height="510" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Us -->
+
+    <div class="row">
+
+        <div class="col-lg-6 contact_col">
+            <div class="contact_contents">
+                <h1>Liên Hệ Với Chúng Tôi</h1>
+                <p>Hãy liên hệ với chúng tôi khi bạn cần thiết. Có thể là gửi thông tin, gọi cho chúng tôi hoặc gửi email. Hãy chọn cách phù hợp với bạn nhất</p>
+                @*<div>
+                        <p>@SettingHelper.GetValue("SettingHotline")</p>
+                        <p>@SettingHelper.GetValue("SettingEmail")</p>
+                    </div>*@
+                <div>
+                    <p>0812226438</p>
+
+                </div>
+                <div>
+                    <p>CongngheShop@gmail.com</p>
+                </div>
+                <div>
+                    <p>Mở cửa từ: 8.00 - 18.00 Monday - Sunday</p>
+                </div>
+            </div>
+
+            <!-- Follow Us -->
+
+            <div class="follow_us_contents">
+                <h1>Theo dõi chúng tôi tại</h1>
+                <ul class="social d-flex flex-row">
+                    <li><a href="https://www.facebook.com/deptraimabidien/" style="background-color: #3a61c9"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                    <li><a href="#" style="background-color: #41a1f6"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                    <li><a href="https://myaccount.google.com/?utm_source=OGB&utm_medium=app" style="background-color: #fb4343"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.instagram.com/trunkienn_0401/" style="background-color: #8f6247"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                </ul>
+            </div>
+
+        </div>
+
+        <div class="col-lg-6 get_in_touch_col">
+            <div class="get_in_touch_contents">
+                @using (Html.BeginForm("Index", "Contact", FormMethod.Post, new { }))
+                {
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary(true)
+                    <h1>Gửi thông tin cho chúng tôi</h1>
+                    <form action="post">
+                        <div>
+                            <div class="form-group">
+                                <label for="exampleInputEmail1"> </label>
+                                @Html.TextBoxFor(x => x.Name, new { @class = "form-control", @placeholder = "Nhập họ và tên" })
+                                @Html.ValidationMessageFor(x => x.Name, null, new { @class = "text-danger", @placeholder = "Nhập họ và tên" })
+                            </div>
+                            <input id="input_email" class="form_input input_email input_ph" type="email" name="email" placeholder="Nhập địa chỉ Email" required="required" data-error="Valid email is required.">
+                            <input id="input_website" class="form_input input_website input_ph" type="url" name="name" placeholder="Website" required="required" data-error="Name is required.">
+                            <textarea id="input_message" class="input_ph input_message" name="message" placeholder="Nội dung" rows="3" required data-error="Nội dung liên hệ"></textarea>
+                        </div>
+                        <div>
+                            <button id="review_submit" type="submit" class="red_button message_submit_btn trans_300" value="Submit">Gửi</button>
+                        </div>
+                    </form>
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+@Html.Action("Partial_News_Home", "News")
+@section scripts{
+    <script src="~/Content/Asset/js/contact_custom.js"></script>
+}
+
